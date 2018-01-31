@@ -1,0 +1,2 @@
+class subnet_calculator():
+	
